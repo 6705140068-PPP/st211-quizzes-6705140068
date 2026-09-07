@@ -3,15 +3,21 @@ Pyae Pyae Phyo , 6705140068
 
 quiz01
 
-bank.py, test_bank.py
+This quiz contains the following files:
 
-test_bad_example.py
+-bank.py
+-test_bank.py
+-test_bad_example.py
+-test_dependent.py
+-test_independent.py
+-grades.py
+-test_grades.py
 
-test_dependent.py
+ Description
 
-test_independent.py
+The quiz implementation includes the main program files and test files.
 
-grades.py, test_grades.py
+The test files are used to check different cases including normal cases, bad examples, dependent tests, independent tests, and grading functions.
 
 
 
