@@ -6,11 +6,17 @@ quiz01
 This quiz contains the following files:
 
 -bank.py
+
 -test_bank.py
+
 -test_bad_example.py
+
 -test_dependent.py
+
 -test_independent.py
+
 -grades.py
+
 -test_grades.py
 
  Description
